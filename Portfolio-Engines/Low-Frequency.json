@@ -1016,8 +1016,8 @@
             "id": "a3ca2cf6-8110-4fc1-937e-a70a495c3fa8",
             "savedPayload": {
                 "position": {
-                    "x": 34960.101604833435,
-                    "y": 20035.733165397272
+                    "x": 35031.61498500249,
+                    "y": 20128.931216931218
                 },
                 "targetPosition": {
                     "x": 34641.90355329949,
@@ -1053,12 +1053,12 @@
                         "id": "4f10af21-6ce6-48df-b5fd-41e6fe7c2aa0",
                         "savedPayload": {
                             "position": {
-                                "x": 35806.4069168311,
-                                "y": 19989.873569462492
+                                "x": 35746.1183485341,
+                                "y": 20214.873569462492
                             },
                             "targetPosition": {
-                                "x": 35541.90355329949,
-                                "y": 20353.931216931218
+                                "x": 35481.61498500249,
+                                "y": 20578.931216931218
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1081,12 +1081,12 @@
                         "id": "f41c447a-4d11-46c5-815c-1e7c512ac606",
                         "savedPayload": {
                             "position": {
-                                "x": 35969.878985632306,
-                                "y": 20214.873569462492
+                                "x": 35909.590417335305,
+                                "y": 20439.873569462492
                             },
                             "targetPosition": {
-                                "x": 35541.90355329949,
-                                "y": 20353.931216931218
+                                "x": 35481.61498500249,
+                                "y": 20578.931216931218
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1106,15 +1106,15 @@
                         "name": "New Asset Locked Balance",
                         "config": "{ \n\"locked\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "e79fbe33-167e-4fcd-8e0d-13711ba8a27a",
+                        "id": "ee1309f3-4e19-4e0c-a69c-0a586ac74d2c",
                         "savedPayload": {
                             "position": {
-                                "x": 35969.878985632306,
-                                "y": 20492.988864399944
+                                "x": 35909.590417335305,
+                                "y": 20717.988864399944
                             },
                             "targetPosition": {
-                                "x": 35541.90355329949,
-                                "y": 20353.931216931218
+                                "x": 35481.61498500249,
+                                "y": 20578.931216931218
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1137,12 +1137,12 @@
                         "id": "5115d60a-85e0-4534-a531-c6d03df1d244",
                         "savedPayload": {
                             "position": {
-                                "x": 35806.4069168311,
-                                "y": 20717.988864399944
+                                "x": 35746.1183485341,
+                                "y": 20942.988864399944
                             },
                             "targetPosition": {
-                                "x": 35541.90355329949,
-                                "y": 20353.931216931218
+                                "x": 35481.61498500249,
+                                "y": 20578.931216931218
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1161,11 +1161,11 @@
                     "savedPayload": {
                         "position": {
                             "x": 35481.61498500249,
-                            "y": 20128.931216931218
+                            "y": 20578.931216931218
                         },
                         "targetPosition": {
-                            "x": 35091.90355329949,
-                            "y": 20353.931216931218
+                            "x": 35031.61498500249,
+                            "y": 20578.931216931218
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1299,12 +1299,12 @@
                     "id": "67dcba57-3ea2-4206-aa62-9cf8b2efecdb",
                     "savedPayload": {
                         "position": {
-                            "x": 35481.61498500249,
-                            "y": 20578.931216931218
+                            "x": 35256.61498500249,
+                            "y": 20968.642648634217
                         },
                         "targetPosition": {
-                            "x": 35091.90355329949,
-                            "y": 20353.931216931218
+                            "x": 35031.61498500249,
+                            "y": 20578.931216931218
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1323,8 +1323,8 @@
             "id": "3e256fce-6cc3-492c-9fce-f7ac6ca91325",
             "savedPayload": {
                 "position": {
-                    "x": 35091.90355329949,
-                    "y": 20353.931216931218
+                    "x": 35031.61498500249,
+                    "y": 20578.931216931218
                 },
                 "targetPosition": {
                     "x": 34641.90355329949,
@@ -1333,144 +1333,7 @@
                 "floatingObject": {
                     "isPinned": false,
                     "isFrozen": false,
-                    "isCollapsed": true,
-                    "angleToParent": 2,
-                    "distanceToParent": 4,
-                    "arrangementStyle": 0
-                },
-                "uiObject": {
-                    "isRunning": false
-                }
-            }
-        },
-        "managedTradingBots": {
-            "type": "Managed Trading Bots",
-            "name": "New Managed Trading Bots",
-            "project": "Portfolio-Management",
-            "managedTradingBot": [
-                {
-                    "type": "Managed Trading Bot",
-                    "name": "New Managed Trading Bot",
-                    "project": "Portfolio-Management",
-                    "managedTradingBotEngine": {
-                        "type": "Managed Trading Bot Engine",
-                        "name": "New Managed Trading Bot Engine",
-                        "project": "Portfolio-Management",
-                        "id": "a504de5c-711f-44e9-8440-47591afc13bc",
-                        "savedPayload": {
-                            "position": {
-                                "x": 35829.4348484936,
-                                "y": 20905.066409057436
-                            },
-                            "targetPosition": {
-                                "x": 35394.76822666352,
-                                "y": 20788.5978387613
-                            },
-                            "floatingObject": {
-                                "isPinned": false,
-                                "isFrozen": false,
-                                "isCollapsed": false,
-                                "angleToParent": 2,
-                                "distanceToParent": 3,
-                                "arrangementStyle": 0
-                            },
-                            "uiObject": {
-                                "isRunning": false
-                            }
-                        }
-                    },
-                    "id": "a86b03c1-22ea-4e22-b090-51d5ca92379f",
-                    "savedPayload": {
-                        "position": {
-                            "x": 35394.76822666352,
-                            "y": 20788.5978387613
-                        },
-                        "targetPosition": {
-                            "x": 34960.101604833435,
-                            "y": 20672.129268465163
-                        },
-                        "floatingObject": {
-                            "isPinned": false,
-                            "isFrozen": false,
-                            "isCollapsed": false,
-                            "angleToParent": 2,
-                            "distanceToParent": 3,
-                            "arrangementStyle": 0
-                        },
-                        "uiObject": {
-                            "isRunning": false
-                        }
-                    }
-                },
-                {
-                    "type": "Managed Trading Bot",
-                    "name": "New Managed Trading Bot",
-                    "project": "Portfolio-Management",
-                    "managedTradingBotEngine": {
-                        "type": "Managed Trading Bot Engine",
-                        "name": "New Managed Trading Bot Engine",
-                        "project": "Portfolio-Management",
-                        "id": "50dba4a1-fbda-4314-97a0-a1e2d96ab190",
-                        "savedPayload": {
-                            "position": {
-                                "x": 35193.03874542571,
-                                "y": 21541.462512125327
-                            },
-                            "targetPosition": {
-                                "x": 35076.57017512957,
-                                "y": 21106.795890295245
-                            },
-                            "floatingObject": {
-                                "isPinned": false,
-                                "isFrozen": false,
-                                "isCollapsed": false,
-                                "angleToParent": 2,
-                                "distanceToParent": 3,
-                                "arrangementStyle": 0
-                            },
-                            "uiObject": {
-                                "isRunning": false
-                            }
-                        }
-                    },
-                    "id": "25d325d6-bed8-4a4f-8d8d-499b625a3809",
-                    "savedPayload": {
-                        "position": {
-                            "x": 35076.57017512957,
-                            "y": 21106.795890295245
-                        },
-                        "targetPosition": {
-                            "x": 34960.101604833435,
-                            "y": 20672.129268465163
-                        },
-                        "floatingObject": {
-                            "isPinned": false,
-                            "isFrozen": false,
-                            "isCollapsed": false,
-                            "angleToParent": 2,
-                            "distanceToParent": 3,
-                            "arrangementStyle": 0
-                        },
-                        "uiObject": {
-                            "isRunning": false
-                        }
-                    }
-                }
-            ],
-            "id": "089cedce-147d-4837-97f5-d6563a95c501",
-            "savedPayload": {
-                "position": {
-                    "x": 34960.101604833435,
-                    "y": 20672.129268465163
-                },
-                "targetPosition": {
-                    "x": 34641.90355329949,
-                    "y": 20353.931216931218
-                },
-                "floatingObject": {
-                    "isPinned": false,
-                    "isFrozen": false,
-                    "isCollapsed": true,
+                    "isCollapsed": false,
                     "angleToParent": 2,
                     "distanceToParent": 4,
                     "arrangementStyle": 0
@@ -1631,12 +1494,12 @@
                     "id": "ae52e312-2514-4840-a6aa-7d61286aad19",
                     "savedPayload": {
                         "position": {
-                            "x": 33202.19212159649,
-                            "y": 20578.931216931218
+                            "x": 33966.90355329949,
+                            "y": 21453.45026976955
                         },
                         "targetPosition": {
-                            "x": 33591.90355329949,
-                            "y": 20353.931216931218
+                            "x": 33966.90355329949,
+                            "y": 21003.45026976955
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1770,12 +1633,12 @@
                     "id": "ed830e3d-778b-4a6a-940b-6a30c854f367",
                     "savedPayload": {
                         "position": {
-                            "x": 33202.19212159649,
-                            "y": 20128.931216931218
+                            "x": 33577.19212159649,
+                            "y": 21228.45026976955
                         },
                         "targetPosition": {
-                            "x": 33591.90355329949,
-                            "y": 20353.931216931218
+                            "x": 33966.90355329949,
+                            "y": 21003.45026976955
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1794,12 +1657,12 @@
             "id": "c5cce725-76e2-4ae1-830d-67937de76efc",
             "savedPayload": {
                 "position": {
-                    "x": 33591.90355329949,
-                    "y": 20353.931216931218
+                    "x": 33966.90355329949,
+                    "y": 21003.45026976955
                 },
                 "targetPosition": {
-                    "x": 34041.90355329949,
-                    "y": 20353.931216931218
+                    "x": 34191.90355329949,
+                    "y": 20613.73883806655
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -1817,8 +1680,145 @@
         "id": "682c3977-31e0-4619-ba44-43111aad0c34",
         "savedPayload": {
             "position": {
-                "x": 34041.90355329949,
+                "x": 34191.90355329949,
+                "y": 20613.73883806655
+            },
+            "targetPosition": {
+                "x": 34341.90355329949,
                 "y": 20353.931216931218
+            },
+            "floatingObject": {
+                "isPinned": false,
+                "isFrozen": false,
+                "isCollapsed": false,
+                "angleToParent": 1,
+                "distanceToParent": 3,
+                "arrangementStyle": 0
+            },
+            "uiObject": {
+                "isRunning": false
+            }
+        }
+    },
+    "managedTradingBots": {
+        "type": "Managed Trading Bots",
+        "name": "New Managed Trading Bots",
+        "project": "Portfolio-Management",
+        "managedTradingBot": [
+            {
+                "type": "Managed Trading Bot",
+                "name": "New Managed Trading Bot",
+                "project": "Portfolio-Management",
+                "managedTradingBotEngine": {
+                    "type": "Managed Trading Bot Engine",
+                    "name": "New Managed Trading Bot Engine",
+                    "project": "Portfolio-Management",
+                    "id": "81ac034b-61bb-4ec2-8838-cdee1d54ad70",
+                    "savedPayload": {
+                        "position": {
+                            "x": 33672.288311028824,
+                            "y": 19794.123595795885
+                        },
+                        "targetPosition": {
+                            "x": 33932.09593216416,
+                            "y": 19944.123595795885
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                "id": "0d2090fc-b05f-40e5-aeb8-dc2564707727",
+                "savedPayload": {
+                    "position": {
+                        "x": 33932.09593216416,
+                        "y": 19944.123595795885
+                    },
+                    "targetPosition": {
+                        "x": 34191.90355329949,
+                        "y": 20094.123595795885
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 2,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            },
+            {
+                "type": "Managed Trading Bot",
+                "name": "New Managed Trading Bot",
+                "project": "Portfolio-Management",
+                "managedTradingBotEngine": {
+                    "type": "Managed Trading Bot Engine",
+                    "name": "New Managed Trading Bot Engine",
+                    "project": "Portfolio-Management",
+                    "id": "5bb0e70c-b024-458f-aa1b-f6e0ba36d9b9",
+                    "savedPayload": {
+                        "position": {
+                            "x": 34191.90355329949,
+                            "y": 19494.123595795885
+                        },
+                        "targetPosition": {
+                            "x": 34191.90355329949,
+                            "y": 19794.123595795885
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                "id": "c867fdf0-a82b-4e2d-bcdd-592d701fa391",
+                "savedPayload": {
+                    "position": {
+                        "x": 34191.90355329949,
+                        "y": 19794.123595795885
+                    },
+                    "targetPosition": {
+                        "x": 34191.90355329949,
+                        "y": 20094.123595795885
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 2,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            }
+        ],
+        "id": "5395ac00-5b2b-476e-9bff-afe85590b4c8",
+        "savedPayload": {
+            "position": {
+                "x": 34191.90355329949,
+                "y": 20094.123595795885
             },
             "targetPosition": {
                 "x": 34341.90355329949,
@@ -1850,7 +1850,7 @@
         "floatingObject": {
             "isPinned": true,
             "isFrozen": false,
-            "isCollapsed": false,
+            "isCollapsed": true,
             "angleToParent": 2,
             "distanceToParent": 3,
             "arrangementStyle": 0
