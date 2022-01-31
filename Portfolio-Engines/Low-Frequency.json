@@ -1795,7 +1795,7 @@
             "type": "Exchange Managed Assets",
             "name": "New Exchange Managed Assets",
             "project": "Portfolio-Management",
-            "exchangeManagedAsset": [
+            "exchangeManagedAssets": [
                 {
                     "type": "Exchange Managed Asset",
                     "name": "New Exchange Managed Asset",
@@ -1805,15 +1805,15 @@
                         "name": "New Asset Initial Balance",
                         "config": "{ \n\"initialBalance\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "4f10af21-6ce6-48df-b5fd-41e6fe7c2aa0",
+                        "id": "c06b8779-cb67-44fb-8a85-286f00835c51",
                         "savedPayload": {
                             "position": {
-                                "x": 38604.37873413789,
-                                "y": 17610.580762450598
+                                "x": 38236.307135726354,
+                                "y": 17656.93331160684
                             },
                             "targetPosition": {
-                                "x": 38339.87537060628,
-                                "y": 17974.638409919324
+                                "x": 38059.97156003861,
+                                "y": 17899.638409919324
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1833,15 +1833,15 @@
                         "name": "New Asset Free Balance",
                         "config": "{ \n\"free\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "f41c447a-4d11-46c5-815c-1e7c512ac606",
+                        "id": "2e3965a2-8544-4595-ada3-1a2c519a4e49",
                         "savedPayload": {
                             "position": {
-                                "x": 38767.850802939094,
-                                "y": 17835.580762450598
+                                "x": 38345.28851492716,
+                                "y": 17806.93331160684
                             },
                             "targetPosition": {
-                                "x": 38339.87537060628,
-                                "y": 17974.638409919324
+                                "x": 38059.97156003861,
+                                "y": 17899.638409919324
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1861,15 +1861,15 @@
                         "name": "New Asset Locked Balance",
                         "config": "{ \n\"locked\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "ee1309f3-4e19-4e0c-a69c-0a586ac74d2c",
+                        "id": "4a242b68-cb33-4d1d-a59b-1b92f09be4ae",
                         "savedPayload": {
                             "position": {
-                                "x": 38767.850802939094,
-                                "y": 18113.69605738805
+                                "x": 38345.28851492716,
+                                "y": 17992.343508231806
                             },
                             "targetPosition": {
-                                "x": 38339.87537060628,
-                                "y": 17974.638409919324
+                                "x": 38059.97156003861,
+                                "y": 17899.638409919324
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1889,15 +1889,15 @@
                         "name": "New Asset Total Balance",
                         "config": "{ \n\"total\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "5115d60a-85e0-4534-a531-c6d03df1d244",
+                        "id": "1d9fc786-e7a8-4fb1-bdb0-ea3672296faf",
                         "savedPayload": {
                             "position": {
-                                "x": 38604.37873413789,
-                                "y": 18338.69605738805
+                                "x": 38236.307135726354,
+                                "y": 18142.343508231806
                             },
                             "targetPosition": {
-                                "x": 38339.87537060628,
-                                "y": 17974.638409919324
+                                "x": 38059.97156003861,
+                                "y": 17899.638409919324
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1912,20 +1912,20 @@
                             }
                         }
                     },
-                    "id": "695602c1-2b88-4fd2-b379-8f4751e84df3",
+                    "id": "5c8ef342-8d3e-4f92-af6a-1e5828031bae",
                     "savedPayload": {
                         "position": {
-                            "x": 38339.87537060628,
-                            "y": 17974.638409919324
+                            "x": 38059.97156003861,
+                            "y": 17899.638409919324
                         },
                         "targetPosition": {
-                            "x": 37889.87537060628,
-                            "y": 17974.638409919324
+                            "x": 37759.97156003861,
+                            "y": 17899.638409919324
                         },
                         "floatingObject": {
                             "isPinned": false,
                             "isFrozen": false,
-                            "isCollapsed": true,
+                            "isCollapsed": false,
                             "angleToParent": 2,
                             "distanceToParent": 3,
                             "arrangementStyle": 0
@@ -1944,15 +1944,15 @@
                         "name": "New Asset Initial Balance",
                         "config": "{ \n\"initialBalance\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "46041a93-ab60-40e7-80d1-0a2951fc99f3",
+                        "id": "0dc6d6f0-d714-44d3-bae1-28ecc6b3cf28",
                         "savedPayload": {
                             "position": {
-                                "x": 38750.97082654545,
-                                "y": 17791.606920535214
+                                "x": 38208.3281286491,
+                                "y": 18190.804570034954
                             },
                             "targetPosition": {
-                                "x": 38339.87537060628,
-                                "y": 17974.638409919324
+                                "x": 37909.97156003861,
+                                "y": 18159.446031054656
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1972,15 +1972,15 @@
                         "name": "New Asset Free Balance",
                         "config": "{ \n\"free\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "1516ac7d-7423-4a15-99f4-5580fefc133e",
+                        "id": "02f6bee7-7c8f-4bf4-842a-5178a2c5d293",
                         "savedPayload": {
                             "position": {
-                                "x": 38780.04179093649,
-                                "y": 18068.198670787315
+                                "x": 38132.91500768183,
+                                "y": 18360.185212962315
                             },
                             "targetPosition": {
-                                "x": 38339.87537060628,
-                                "y": 17974.638409919324
+                                "x": 37909.97156003861,
+                                "y": 18159.446031054656
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2000,15 +2000,15 @@
                         "name": "New Asset Locked Balance",
                         "config": "{ \n\"locked\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "ff5b289c-6ffc-4c49-b122-08c3fa22364b",
+                        "id": "7226a8b8-6971-48af-97a4-2e4aac26b3de",
                         "savedPayload": {
                             "position": {
-                                "x": 38640.984143467766,
-                                "y": 18309.053581384152
+                                "x": 37972.34506728394,
+                                "y": 18452.890311274798
                             },
                             "targetPosition": {
-                                "x": 38339.87537060628,
-                                "y": 17974.638409919324
+                                "x": 37909.97156003861,
+                                "y": 18159.446031054656
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2028,15 +2028,15 @@
                         "name": "New Asset Total Balance",
                         "config": "{ \n\"total\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "76b51ffc-e11d-4270-9776-7111ab03450e",
+                        "id": "62590424-93e6-4356-8efe-2248d39caef8",
                         "savedPayload": {
                             "position": {
-                                "x": 38386.91317907672,
-                                "y": 18422.173262835047
+                                "x": 37787.95056711587,
+                                "y": 18433.509668347437
                             },
                             "targetPosition": {
-                                "x": 38339.87537060628,
-                                "y": 17974.638409919324
+                                "x": 37909.97156003861,
+                                "y": 18159.446031054656
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2051,20 +2051,20 @@
                             }
                         }
                     },
-                    "id": "67dcba57-3ea2-4206-aa62-9cf8b2efecdb",
+                    "id": "4ce48c1c-e115-44ea-8024-78137675b9ec",
                     "savedPayload": {
                         "position": {
-                            "x": 38114.87537060628,
-                            "y": 18364.349841622323
+                            "x": 37909.97156003861,
+                            "y": 18159.446031054656
                         },
                         "targetPosition": {
-                            "x": 37889.87537060628,
-                            "y": 17974.638409919324
+                            "x": 37759.97156003861,
+                            "y": 17899.638409919324
                         },
                         "floatingObject": {
                             "isPinned": false,
                             "isFrozen": false,
-                            "isCollapsed": true,
+                            "isCollapsed": false,
                             "angleToParent": 2,
                             "distanceToParent": 3,
                             "arrangementStyle": 0
@@ -2078,8 +2078,8 @@
             "id": "3e256fce-6cc3-492c-9fce-f7ac6ca91325",
             "savedPayload": {
                 "position": {
-                    "x": 37889.87537060628,
-                    "y": 17974.638409919324
+                    "x": 37759.97156003861,
+                    "y": 17899.638409919324
                 },
                 "targetPosition": {
                     "x": 37500.16393890328,
@@ -2090,7 +2090,7 @@
                     "isFrozen": false,
                     "isCollapsed": true,
                     "angleToParent": 2,
-                    "distanceToParent": 4,
+                    "distanceToParent": 3,
                     "arrangementStyle": 0
                 },
                 "uiObject": {
@@ -2129,7 +2129,7 @@
             "type": "Exchange Managed Assets",
             "name": "New Exchange Managed Assets",
             "project": "Portfolio-Management",
-            "exchangeManagedAsset": [
+            "exchangeManagedAssets": [
                 {
                     "type": "Exchange Managed Asset",
                     "name": "New Exchange Managed Asset",
@@ -2139,15 +2139,15 @@
                         "name": "New Asset Initial Balance",
                         "config": "{ \n\"initialBalance\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "05f6b274-242f-488a-be51-789cfee7dea7",
+                        "id": "082dd836-3999-4f61-bbef-b669d7314719",
                         "savedPayload": {
                             "position": {
-                                "x": 36308.99777878765,
-                                "y": 18197.994978529805
+                                "x": 37142.869037215765,
+                                "y": 18745.589227877732
                             },
                             "targetPosition": {
-                                "x": 36340.356317767946,
-                                "y": 17899.638409919324
+                                "x": 36900.16393890328,
+                                "y": 18569.25365218999
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2167,15 +2167,15 @@
                         "name": "New Asset Free Balance",
                         "config": "{ \n\"free\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "3802d9c8-9c06-4433-b866-d042f01adc00",
+                        "id": "954d2b5c-22ea-4e18-858e-c4287c3dfb04",
                         "savedPayload": {
                             "position": {
-                                "x": 36139.61713586029,
-                                "y": 18122.58185756254
+                                "x": 36992.869037215765,
+                                "y": 18854.570607078535
                             },
                             "targetPosition": {
-                                "x": 36340.356317767946,
-                                "y": 17899.638409919324
+                                "x": 36900.16393890328,
+                                "y": 18569.25365218999
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2195,15 +2195,15 @@
                         "name": "New Asset Locked Balance",
                         "config": "{ \n\"locked\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "1a361306-bbd7-47e3-9c0a-259700719306",
+                        "id": "6d964763-6c16-4919-a8eb-3626b78fe3b6",
                         "savedPayload": {
                             "position": {
-                                "x": 36046.9120375478,
-                                "y": 17962.01191716465
+                                "x": 36807.45884059079,
+                                "y": 18854.570607078535
                             },
                             "targetPosition": {
-                                "x": 36340.356317767946,
-                                "y": 17899.638409919324
+                                "x": 36900.16393890328,
+                                "y": 18569.25365218999
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2223,15 +2223,15 @@
                         "name": "New Asset Total Balance",
                         "config": "{ \n\"total\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "2315d9ad-a88c-4374-b303-56d03a191a11",
+                        "id": "21913815-e756-4d7e-83ac-029b2e0ad15c",
                         "savedPayload": {
                             "position": {
-                                "x": 36066.29268047516,
-                                "y": 17777.617416996585
+                                "x": 36657.45884059079,
+                                "y": 18745.589227877732
                             },
                             "targetPosition": {
-                                "x": 36340.356317767946,
-                                "y": 17899.638409919324
+                                "x": 36900.16393890328,
+                                "y": 18569.25365218999
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2246,20 +2246,20 @@
                             }
                         }
                     },
-                    "id": "ae52e312-2514-4840-a6aa-7d61286aad19",
+                    "id": "11a1fb47-8284-47de-8d41-34ccc301a6c3",
                     "savedPayload": {
                         "position": {
-                            "x": 36825.16393890328,
-                            "y": 18849.157462757656
+                            "x": 36900.16393890328,
+                            "y": 18569.25365218999
                         },
                         "targetPosition": {
-                            "x": 36825.16393890328,
-                            "y": 18399.157462757656
+                            "x": 36900.16393890328,
+                            "y": 18269.25365218999
                         },
                         "floatingObject": {
                             "isPinned": false,
                             "isFrozen": false,
-                            "isCollapsed": true,
+                            "isCollapsed": false,
                             "angleToParent": 2,
                             "distanceToParent": 3,
                             "arrangementStyle": 0
@@ -2278,15 +2278,15 @@
                         "name": "New Asset Initial Balance",
                         "config": "{ \n\"initialBalance\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "3da14dc9-1b58-4f76-97d9-22edd8a42da9",
+                        "id": "1f21ceec-8e7e-4c50-ba26-ee1f031c2d2f",
                         "savedPayload": {
                             "position": {
-                                "x": 36066.29268047516,
-                                "y": 17721.659402842062
+                                "x": 36608.99777878765,
+                                "y": 18717.61022080047
                             },
                             "targetPosition": {
-                                "x": 36340.356317767946,
-                                "y": 17599.638409919324
+                                "x": 36640.356317767946,
+                                "y": 18419.25365218999
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2306,15 +2306,15 @@
                         "name": "New Asset Free Balance",
                         "config": "{ \n\"free\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "f87bb39d-9da6-48ac-89db-ab11891e4e5a",
+                        "id": "5cde37c9-5a30-49ea-9201-a7e4d66572d7",
                         "savedPayload": {
                             "position": {
-                                "x": 36046.9120375478,
-                                "y": 17537.264902673996
+                                "x": 36439.61713586029,
+                                "y": 18642.197099833207
                             },
                             "targetPosition": {
-                                "x": 36340.356317767946,
-                                "y": 17599.638409919324
+                                "x": 36640.356317767946,
+                                "y": 18419.25365218999
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2334,15 +2334,15 @@
                         "name": "New Asset Locked Balance",
                         "config": "{ \n\"locked\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "3a3a06f3-0b03-44e3-9b45-0261a345a901",
+                        "id": "ee088181-d875-4328-853a-8cf033f36f5c",
                         "savedPayload": {
                             "position": {
-                                "x": 36139.61713586029,
-                                "y": 17376.694962276106
+                                "x": 36346.9120375478,
+                                "y": 18481.627159435317
                             },
                             "targetPosition": {
-                                "x": 36340.356317767946,
-                                "y": 17599.638409919324
+                                "x": 36640.356317767946,
+                                "y": 18419.25365218999
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2362,15 +2362,15 @@
                         "name": "New Asset Total Balance",
                         "config": "{ \n\"total\": 0 \n}",
                         "project": "Portfolio-Management",
-                        "id": "c1d3b39c-3ef2-45bf-8767-68487743112f",
+                        "id": "49f839e3-9d00-4eb8-94ad-77e79da5e7a0",
                         "savedPayload": {
                             "position": {
-                                "x": 36308.99777878765,
-                                "y": 17301.281841308843
+                                "x": 36366.29268047516,
+                                "y": 18297.23265926725
                             },
                             "targetPosition": {
-                                "x": 36340.356317767946,
-                                "y": 17599.638409919324
+                                "x": 36640.356317767946,
+                                "y": 18419.25365218999
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2385,20 +2385,20 @@
                             }
                         }
                     },
-                    "id": "ed830e3d-778b-4a6a-940b-6a30c854f367",
+                    "id": "e8e3c922-70cd-4649-bfb1-0ab7cbf273be",
                     "savedPayload": {
                         "position": {
-                            "x": 36435.45250720028,
-                            "y": 18624.157462757656
+                            "x": 36640.356317767946,
+                            "y": 18419.25365218999
                         },
                         "targetPosition": {
-                            "x": 36825.16393890328,
-                            "y": 18399.157462757656
+                            "x": 36900.16393890328,
+                            "y": 18269.25365218999
                         },
                         "floatingObject": {
                             "isPinned": false,
                             "isFrozen": false,
-                            "isCollapsed": true,
+                            "isCollapsed": false,
                             "angleToParent": 2,
                             "distanceToParent": 3,
                             "arrangementStyle": 0
@@ -2409,11 +2409,11 @@
                     }
                 }
             ],
-            "id": "c5cce725-76e2-4ae1-830d-67937de76efc",
+            "id": "5bec3120-5340-4f80-9b4f-749d27503764",
             "savedPayload": {
                 "position": {
-                    "x": 36825.16393890328,
-                    "y": 18399.157462757656
+                    "x": 36900.16393890328,
+                    "y": 18269.25365218999
                 },
                 "targetPosition": {
                     "x": 37050.16393890328,
@@ -2424,7 +2424,7 @@
                     "isFrozen": false,
                     "isCollapsed": false,
                     "angleToParent": 2,
-                    "distanceToParent": 4,
+                    "distanceToParent": 3,
                     "arrangementStyle": 0
                 },
                 "uiObject": {
@@ -2445,7 +2445,7 @@
             "floatingObject": {
                 "isPinned": false,
                 "isFrozen": false,
-                "isCollapsed": false,
+                "isCollapsed": true,
                 "angleToParent": 1,
                 "distanceToParent": 3,
                 "arrangementStyle": 0
